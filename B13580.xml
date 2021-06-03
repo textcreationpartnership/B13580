@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brachigraphy, post-writ, or, The art of short-writing The summe whereof is couched into one table, plainely demonstrating the whole method of the inuention. By W. Folkingham his Maiesties post of Stamford.</title>
+            <author>Folkingham, W. (William)</author>
+         </titleStmt>
+         <extent>Approx. 20KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B13580</idno><idno type="EEBO-CITATION">99850335</idno>
+  <idno type="VID">177172</idno>
+  <idno type="EEBO-PROQUEST">2240889757</idno>
+  <idno type="STC">STC 11122</idno>
+  <idno type="STC">ESTC S115116</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99850335e"/>
+            <note>(EEBO-TCP ; phase 2, no. B13580)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 177172)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 887:01)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Brachigraphy, post-writ, or, The art of short-writing The summe whereof is couched into one table, plainely demonstrating the whole method of the inuention. By W. Folkingham his Maiesties post of Stamford.</title>
+                  <author>Folkingham, W. (William)</author>
+               </titleStmt>
+               <extent>[22] p. : folded table  </extent>
+               <publicationStmt>
+                  <publisher>Printed by Thomas Snodham,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1620]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publication date from STC.</note>
+                  <note>Running title reads: The art of brachigraphy.</note>
+                  <note>Signatures: A B⁴ (-A1, blank?).</note>
+                  <note>Imperfect; folded table lacking.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Shorthand --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:177172:1"/>
+            <pb facs="tcp:177172:1"/>
+            <p>
+               <hi>Brachigraphy, Post-writ,</hi> OR, THE ART OF <hi>Short-writing.</hi>
+            </p>
+            <p>The Summe whereof is couch<g ref="char:EOLhyphen"/>ed into one Table, plainely demon<g ref="char:EOLhyphen"/>strating the whole Method of the INVENTION.</p>
+            <p>By W. FOLKINGHAM his Maie<g ref="char:EOLhyphen"/>sties <hi>Post</hi> of <hi>Stamford.</hi>
+            </p>
+            <figure>
+               <figDesc>printer's device of Thomas Snodham (1603-25)?</figDesc>
+            </figure>
+            <p>LONDON: Printed by <hi>Thomas Snodham.</hi>
+            </p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:177172:2"/>
+            <pb facs="tcp:177172:2"/>
+            <head>To the Reader.</head>
+            <p>
+               <seg rend="decorInit">I</seg>N the breeding of this small Bodie of <hi>Short-writing</hi> I aymed at the husbanding of the Hand (as of Time and Place) that it might not with distorted Characts be discustomed from good formes of vsuall Letters; and to that end of the selected particles of their se<g ref="char:EOLhyphen"/>uerall structures, I haue composed part of my <hi>Alphabet,</hi> which with a few short Rules (of the due disposure of the Characters) comprised in two Chap<g ref="char:EOLhyphen"/>ters, containes in effect the whole Art. Touching th' steeme of the Method, the iudicious may satisfie himselfe, put it to the Test, and determine of the difference
+<pb facs="tcp:177172:3"/> twixt it and other formes, both for ea<g ref="char:EOLhyphen"/>sie compassing and for speedie, close, se<g ref="char:EOLhyphen"/>cret, and pleasant dispatch. For the Angles, Breaches, Passages, Combina<g ref="char:EOLhyphen"/>tions and other Dimensions in this and in all other writings, are so manifest to the Eye (of iudgement) that a meere stranger to the Art may plainely dis<g ref="char:EOLhyphen"/>cerne the compendious and commodi<g ref="char:EOLhyphen"/>dious frame of words, and by conse<g ref="char:EOLhyphen"/>quence be a competent iudge of the most actiue, swift, and close penship of seue<g ref="char:EOLhyphen"/>rall Inuentions resolued vnto him by exemplarie demonstration. But these cu<g ref="char:EOLhyphen"/>rious incorporations of Letters varied into diuers Spellings by ordinary Im<g ref="char:EOLhyphen"/>pression, by Incorporation, by Implica<g ref="char:EOLhyphen"/>tion, doe varie one and the same Writ into seuerall expressions, and so neces<g ref="char:EOLhyphen"/>sarily incumber the Lexion. A shrewd incumbrance sure, when a iudicious Tu<g ref="char:EOLhyphen"/>tor stands alwaies prest at elbow (or ra<g ref="char:EOLhyphen"/>ther at each hand one) to trayne and teach to spell and speake, I meane the
+<pb facs="tcp:177172:3"/> sence of the Place by precedent and se<g ref="char:EOLhyphen"/>quent dependence, which at an instant doth trace out, lead and tread the road<g ref="char:EOLhyphen"/>way to the Reading, and clearely dis<g ref="char:EOLhyphen"/>cusse all difficulties, which indeed are nothing (for matter of intrication, but rather the very praise of the Inuention, if duly estimated) to the various Le<g ref="char:EOLhyphen"/>ctions in euery language attributed to the selfe same words, which carrying identitie of sound and composure, doe yet transferre the sence to farre dif<g ref="char:EOLhyphen"/>ferent significations, without any impu<g ref="char:EOLhyphen"/>tation of confusion or imperfection to the Tongue. And all these difficulties (admit them such) are easily salued, and halfe the fourth Chapter, and all the fifth saued by applying my Letters to those formes of <hi>Short-writing,</hi> which intimate regionarie Vowels by conti<g ref="char:EOLhyphen"/>guitie of Consonants (not by their con<g ref="char:EOLhyphen"/>tingence) as mine doth many times, and to which no Alphabet can be more ac<g ref="char:EOLhyphen"/>commodate; for then all coniunctions of
+<pb facs="tcp:177172:4"/> Characters will be meere Incorporati<g ref="char:EOLhyphen"/>ons sans Implication of Vowellage or in<g ref="char:EOLhyphen"/>trication of the Lecture. But I haue con<g ref="char:EOLhyphen"/>fined my selfe to a more exact Method, which recompenseth th'expence of some few more minutes (which yet I may not graunt) borrowed to th'attayning of this <hi>Theorie</hi> with the profitable pur<g ref="char:EOLhyphen"/>chase of many houres gaine in the <hi>Praxis,</hi> rather than for the idle fond esteeme of a small measure of truant Time (once to be lent but oft repaied with loane) be alwaies bound to dis<g ref="char:EOLhyphen"/>tracted and exorbitant Wanders, which are growne tedious both in Writs and Wits. For euery Practique hath its Art, and euery Art its Compendium, which built vpon a few selected Bases, balks all circulating Complements as deuia<g ref="char:EOLhyphen"/>tions and extrauagants, if they pursue not the direct Medium to the Meta in Quest. In approuement of which Pra<g ref="char:EOLhyphen"/>ctise my Pen (to post to the Post-writ) pitches period with craue of friendly
+<pb facs="tcp:177172:4"/> entertaine, which obtained shall euer oblige me to challenge the grand Cham<g ref="char:EOLhyphen"/>pion S. <hi>George</hi> himselfe to afford thee the like at <hi>Stamford,</hi> where Post-sure the Post-les Posture of one of vs (though neither disclayme the Post) thou mayest finde at <hi>Exeter</hi> Inne, where sans Rest I rest</p>
+            <closer>
+               <signed>Thine in this and that WILLIAM FOLKINGHAM.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:177172:5"/>
+            <head>The Record of MARCVS MANILIVS 1660. yeeres agoe, touching the Art of SHORT-writing.</head>
+            <argument>
+               <q xml:lang="lat">
+                  <l>
+                     <hi>HIc et erit foelix Scriptor cui Litera verbum est,</hi>
+                  </l>
+                  <l>
+                     <hi>Qui{que} Notis Linguam superat cursum{que} loquentis,</hi>
+                  </l>
+                  <l>
+                     <hi>Excipiens longas noua per compendia voces.</hi>
+                  </l>
+               </q>
+               <q>
+                  <l>Her'th Pen-post blest shalbe whose words impressing</l>
+                  <l>One <hi>Charact</hi> is, who Tongue with Quill out-strips</l>
+                  <l>Long speeches in compendious Writ expressing.</l>
+               </q>
+            </argument>
+            <head>The <hi>Post-writ</hi> to the <hi>POST.</hi>
+            </head>
+            <l>DVly thy place and Pen may stile the Post;</l>
+            <l>
+               <hi>Stamford</hi> thy Stage (where Arts the Muses yore,)</l>
+            <l>(Strangers Thee since by Troopes) saluted host,)</l>
+            <l>To speed the States Commaund; and with quaint Lore</l>
+            <l>Thou packs thou Posts (in faire-coucht current glose)</l>
+            <l>And sealest vp my Lines with secret skrewes;</l>
+            <l>Whose closure <hi>Oedipus</hi> can nere disclose,</l>
+            <l>Nor once vnwinde my Laborinthian Clewes</l>
+            <l>Which cause the winged Pen to equipage</l>
+            <l>The fluent tongue with Characts luminous,</l>
+            <l>The Margent small to paralel the Page,</l>
+            <l>The <hi>Vade-mecum</hi> the Voluminous</l>
+            <l>Bulks of selected Books of choysest Writs,</l>
+            <l>Their Principles, their Axiomes their Flores,</l>
+            <l>Their Abstracts briefe the Marrow of their Wits,</l>
+            <l>Their Extracts chiefe and Quintissence of Stories:</l>
+            <l>My Lines so limne and locke the treasurie</l>
+            <l>Of pretious Time and trustfull Secresie.</l>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:177172:5"/>
+            <head>THE ART OF <hi>Brachigraphy.</hi>
+            </head>
+            <div n="1" type="chapter">
+               <head>
+                  <hi>CAP. 1.</hi> Of the Definition and Diuision of the <hi>ART.</hi>
+               </head>
+               <p>
+                  <seg rend="decorInit">B</seg>RACHIGRAPHY is the Art of <hi>Short-writing</hi> impressed in compendi<g ref="char:EOLhyphen"/>ous <hi>Time</hi> and <hi>Place.</hi>
+               </p>
+               <p>
+                  <hi>Short-writing</hi> is either of the bare Letter, or of Words composed of Letters. That I call <hi>Literall</hi> or <hi>Elementall,</hi> this <hi>Dictionall</hi> or <hi>Ʋerball.</hi>
+               </p>
+            </div>
+            <div n="2" type="chapter">
+               <pb facs="tcp:177172:6"/>
+               <head>
+                  <hi>CAP. 2.</hi> Of the Alphabet of Characters.</head>
+               <p>THe Alphabet composing the stru<g ref="char:EOLhyphen"/>cture of words in this Method, is distinguished into three sorts of <hi>Chara<g ref="char:EOLhyphen"/>cters,</hi> according to the seuerall scite and analogie they hould with the supposed <hi>Line</hi> or <hi>Rule</hi> you write by.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/> The first sort are such as range-with, or keepe-about the ordinary pitch of the <hi>Rule</hi> or <hi>Rowe,</hi> exceeding neither in <hi>height</hi> nor <hi>depth,</hi> as are the <hi>Medials</hi> or <hi>Regulars</hi> being all the Alphabet except eight long Letters.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> The second are Altals drawne from a<g ref="char:EOLhyphen"/>boue, and landing at the foote of the <hi>Line,</hi> viz. <hi>f. l. q. t.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/> The third are <hi>Basals,</hi> falling from the <hi>Head</hi> of the <hi>Line,</hi> and landing below the <hi>Foot,</hi> viz. <hi>h. p. r. w.</hi> Yet all these <hi>Irregu<g ref="char:EOLhyphen"/>lars</hi> are reduceable, and are oft contracted (<hi>h.</hi> and <hi>t.</hi> onely excepted) to <hi>Medials:</hi> so <hi>w.</hi> becomes a Conuert, both <hi>de facto</hi> and <hi>de iure,</hi> to <hi>u.</hi> his proper <hi>Charact.</hi> The
+<pb facs="tcp:177172:6"/> sole <hi>Caueat</hi> in these contractions is, that the haire stroaks in <hi>p.</hi> and <hi>q.</hi> be shorter than the latitude of the <hi>Line</hi> to distinguish them from ioynings with <hi>c.</hi> the sloape.</p>
+            </div>
+            <div n="3" type="chapter">
+               <head>
+                  <hi>CAP. 3.</hi> Of incorporated Letters and double Consonants.</head>
+               <p>THe <hi>Incorporation</hi> of Letters is a suc<g ref="char:EOLhyphen"/>cinct contracting of <hi>Characts</hi> into selfe-bodied structures either <hi>Concretiue,</hi> when they are made one by a selfe-lineall and immediat continuation of the Stroak, where imagination, rather than sensible distinction or connexion, limits th'ex<g ref="char:EOLhyphen"/>tention and latitude of each seuerall Let<g ref="char:EOLhyphen"/>ter therein comprised. Or <hi>Discretiue,</hi> when they are incorporated by Angular or <hi>La<g ref="char:EOLhyphen"/>terall</hi> coniunction, discouering the par<g ref="char:EOLhyphen"/>ticular formes and extents of their seue<g ref="char:EOLhyphen"/>rall <hi>Characts.</hi>
+               </p>
+               <p>
+                  <hi>Concretes</hi> are such as are noted in the Table with <hi>c.</hi>
+               </p>
+               <p>These <hi>Incorporations</hi> are further encrea<g ref="char:EOLhyphen"/>sed by a punctuall practise to imply <hi>Pre<g ref="char:EOLhyphen"/>cedence</hi>
+                  <pb facs="tcp:177172:7"/> and <hi>Duplicitie.</hi> Of the first, the in<g ref="char:EOLhyphen"/>corporates <hi>lp. lr. fr. pr. gth.</hi> by a punct vnder them are inuerted into <hi>pl. rl. rf. rp. ght.</hi>
+               </p>
+               <p>Of the second sort are all the <hi>Irregu<g ref="char:EOLhyphen"/>lars,</hi> which being of the same scite or po<g ref="char:EOLhyphen"/>sture with <hi>b.</hi> doe oft comprise it, inti<g ref="char:EOLhyphen"/>mated onely by punct ouer or vnder th'incorporation to point forth the <hi>Pre<g ref="char:EOLhyphen"/>cedence. Discretes</hi> are those (and others) in the Table left without notes.</p>
+               <p>Here I would aduise you to be per<g ref="char:EOLhyphen"/>fect in the Table for the Letters and <hi>Ele<g ref="char:EOLhyphen"/>mentall Incorporations,</hi> to rest well at each Stage, not chopping into another Chap<g ref="char:EOLhyphen"/>ter till you haue well ruminated on the last, and neuer to post-ouer nor quit a <hi>Principle</hi> nor an <hi>Element</hi> till both memo<g ref="char:EOLhyphen"/>rie and hand finde or forme it prest for your impression.</p>
+            </div>
+            <div n="4" type="chapter">
+               <head>
+                  <hi>CAP. 4.</hi> Of the Places and Regions of the Ʋowels.</head>
+               <p>THe Vowels are not alwaies expressed by pēning their peculiar <hi>Characts,</hi> but
+<pb facs="tcp:177172:7"/> implyed very often by puncts, places or touches, <hi>vt sequitur.</hi>
+               </p>
+               <p>Euery Row or Rainge of Letters or Words doth admit (imaginarily) of a <hi>Diapent</hi> or fiuefold diuision by paralel-lines cutting longwayes through the breadth of the Letters or Line.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/> The first Paralel in height and Right runs along the space betwixt the heads of the <hi>Altals,</hi> and th'other Letters (in <hi>Medio scilt</hi>) for <hi>a.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> The second leuels the heads of the <hi>Medials</hi> and <hi>Basals</hi> for <hi>e.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/> The third cuts through the Center or midst of the <hi>Medials</hi> for <hi>i.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="4"/> The fourth runs by and rules the feet of the <hi>Medials</hi> and <hi>Altals</hi> for <hi>o.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="5"/> The fift and last Paralel lines the space twixt the feet of the <hi>Basals</hi> and th'other for <hi>u.</hi> see the demonstration.</p>
+               <p>In all which the Puncts in the Para<g ref="char:EOLhyphen"/>lels imply the fiue Vowels respectiuely sutable to their stationall Regions and priorities in vulgar enumeration, and must be laterally placed to the Dexter or Sinister Hand of the Consonant re<g ref="char:EOLhyphen"/>specting the precedence and sequence
+<pb facs="tcp:177172:8"/> of the implicable vowell, see the Table.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="7"/> In like sort and position are Letters placed a part in Vowel Regions to im<g ref="char:EOLhyphen"/>ply interceding Vowels, but most emi<g ref="char:EOLhyphen"/>nently in paralels of <hi>a. i. u.</hi> This disiunct Implication is the vsuall forme of inti<g ref="char:EOLhyphen"/>mating Vowels in other inuentions of <hi>Short-writings,</hi> and the like practise here supersedes all incumbrance of intricati<g ref="char:EOLhyphen"/>on through various Lexions.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="8"/> There is another Implication of Vowels by single or mediate touch or coniunction of Consonants respectiue<g ref="char:EOLhyphen"/>ly and indifferently for all, but most fre<g ref="char:EOLhyphen"/>quently for <hi>e. i. o.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="9"/> But the peculiar Implication of Vowels in this Method is attributed to the immediate laterall and single touch of Consonants in Vowels Regions.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="10"/> Here note the Punctus <hi>e.</hi> latere (or laterall touch) attends the <hi>Medials</hi> retaining regionarie right of vowellage both in their eleuation and depression.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="11"/> The same Implication holds in double Consonants, which in that re<g ref="char:EOLhyphen"/>spect are euer esteemed as <hi>Singles.</hi>
+               </p>
+               <p>Here might I conclude Implication,
+<pb facs="tcp:177172:8"/> saue that the Art hath lent to the two Letters that sound and style it so a <hi>Ter<g ref="char:EOLhyphen"/>narie</hi> of By-Characts for peculiar vses, viz. the two small Characts to <hi>r.</hi> and. the blot to <hi>t.</hi>
+               </p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="12"/> The first <hi>r.</hi> to begin a syllable where the Basal frames not so fitly for that purpose.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="13"/> Th'other <hi>r.</hi> being the least producti<g ref="char:EOLhyphen"/>on of or to a punct, is constant to his colours, though he march most in the <hi>Rere,</hi> sets vp his rest to be no <hi>Bigamus</hi> nor <hi>Ambodexter,</hi> and hands but with one at once; for such lineall league ex<g ref="char:EOLhyphen"/>tended to two Consonants dissolues the <hi>r</hi> and the double touch turnes Vowell, as in <hi>f.</hi> 8.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="14"/> Besides this <hi>r.</hi> to auoid confusion with <hi>n.</hi> neuer ioynes with it, yet it admits punctuall production (like <hi>n.</hi> produced to an acute point for th'old <hi>Brachigra<g ref="char:EOLhyphen"/>pher</hi> &amp;c.) to produce the syllable by implying <hi>e.</hi> after <hi>r.</hi> by th'extention.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="15"/> For <hi>t,</hi> it is conuerted to the Literal or Liturall punct. (the Center that all things tend vnto) and attends most the tayle of Consonants, to dissolue and
+<pb facs="tcp:177172:9"/> blot out vowels of implication.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="16"/> In other places, tis implicable like other Consonants.</p>
+            </div>
+            <div n="5" type="chapter">
+               <head>
+                  <hi>CAP. 5.</hi> Of the nullifying or making void the Impli<g ref="char:EOLhyphen"/>cation of Ʋowels.</head>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/> THe Implication of Vowels by con<g ref="char:EOLhyphen"/>iunction of Consonants is some<g ref="char:EOLhyphen"/>times drowned in the Incorporation, but most remarkeably by punct or Letter found in the first or last paralel (ouer or vnder the point of connection) trans<g ref="char:EOLhyphen"/>ferring the vowell to the puncture.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> Also a double touch in the Line an<g ref="char:EOLhyphen"/>nihilates all coniunctiues of applying <hi>e. i. o.</hi> yet <hi>g. d.</hi> ioyning thus (o) through thre Regions, stands soly on the sole and base to intimate and spell the im<g ref="char:EOLhyphen"/>mensurable Basis of all blisse and good<g ref="char:EOLhyphen"/>nesse <hi>God</hi> soly good and infinite. For pendent Incorporations they are not within compasse of angular touch and are therefore sounded sans Vowels, saue those of prolation (a point not now
+<pb facs="tcp:177172:9"/> toucht though of much vse) as <hi>fr. lp. tr.</hi> But the greatest scruple is when Con<g ref="char:EOLhyphen"/>sonants angularly ioyned are yet soun<g ref="char:EOLhyphen"/>ded without vowell, as the double Con<g ref="char:EOLhyphen"/>sonants <hi>rd. rm. nc. ng. ns. rs.</hi> which are as vsually so taken, as for their spellings <hi>red. rem. nec. neg. nes. res.</hi> nor is the re<g ref="char:EOLhyphen"/>forming of this variation of Lexion ve<g ref="char:EOLhyphen"/>ry necessary in this Art, which aymes more at speedy dispatch in writing than in reading, yet may the nullitie be noted with any peculiar marke.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/> The ioyning of Vowels and Conso<g ref="char:EOLhyphen"/>nants implies onely themselues; yet a Vowell set apart from a Consonant goes not without implication of vowellage, as in <hi>dian</hi> Ca. 4. <hi>f.</hi> 7.</p>
+               <p>So much for the Literall part. The Verball ensues.</p>
+            </div>
+            <div n="6" type="chapter">
+               <head>
+                  <hi>CAP. 6.</hi> Of the Contracting of writings.</head>
+               <p>THe best Enginere in deriuing Na<g ref="char:EOLhyphen"/>uigable Passages from vnpassable Currents confines not himselfe either to
+<pb facs="tcp:177172:10"/> cut a thorow-new Fosse or to rectifie the old Channel for his Conuoy, but pursues th'one and followes th'other as Art and the <hi>Medium</hi> shall demonstrate. In like manner hauing hitherto run the Leuel of a new Tract in this my inuen<g ref="char:EOLhyphen"/>tion, here will I pitch a Lock and fall into the Current of antient abbreuiati<g ref="char:EOLhyphen"/>ons already sounded for good Tracts to piece-vp a portable Conuoy for my Post-writ.</p>
+               <p>The Contracting of Writings is the penning of a part for the whole, and is either of single words or of Sentences.</p>
+               <p>The Contracting of words is the leauing out of some letters comprised in the full composition and prolation of the same; and this is either <hi>Medial</hi> or <hi>Final.</hi>
+               </p>
+               <p>
+                  <hi>Medial</hi> Contraction is the penning of the beginning and termination of the Word with a dash ouer the same to note the defect; so <hi>anima</hi> is contracted to <abbr>aia</abbr>, apostumate made <abbr>apate</abbr>, melancho<g ref="char:EOLhyphen"/>lia <abbr>mlia</abbr>, miserecordia <abbr>mia</abbr>, spiritus <abbr>Spus</abbr>, honourable <abbr>hoble</abbr>: yet some intermedial Letters of eminence may be vsefully in<g ref="char:EOLhyphen"/>serted,
+<pb facs="tcp:177172:10"/> as <abbr>adstron</abbr> administration, <abbr>anqtie</abbr> antiquitie, <abbr>temtus</abbr> tempestuous: but the dash is superfluous in Characterie.</p>
+               <p>To this Place may be referred the writing of words after the vulgar sound; as for beautie, carique, deaw, goodnesse, myrrhe, neighbour, righteous, tongue; write buti, caric, du, gudnes, mir, nibor, ritus, tung: so xlent, dilog, ruly, sur<g ref="char:EOLhyphen"/>gin, vement, for excellent, dialogue, ruthfully, chirurgion, vehement.</p>
+               <p>Also the Contracting of two or moe words into one, as <hi>nostin?</hi> for <hi>nouistine?</hi> lilo for <hi>licentiam interloquendi: Vinum Cos</hi> for <hi>Vinum colore, odore, sapore insignitum.</hi> So the seauen deadly Sinnes are intimated by one word in this verse:
+<q xml:lang="lat">Si mortem vites semper Saligia vites.</q>
+               </p>
+               <p>So Ile for I will; wele dut, wee will doe it; thuse, the vse; th'our, the hower.</p>
+               <p>The syllable <hi>con,</hi> serues well for cion, sion, tion in terminations.</p>
+               <p>Numeral words haue natiue abbreui<g ref="char:EOLhyphen"/>ation by letters or figures.</p>
+               <p>Finall Contraction pens onely the first part of the word with a punct at the fracture to intimate the supplement, as in
+<pb facs="tcp:177172:11"/> our Recipes, thus; ℞. pil. coch. ℈. ij. pil. pol. ℈j. diag. et troch. alh. an. gr. jss. ol. mac. g. ij. ol. zz. g. j. cum aq. <abbr>nra</abbr> cephal. <hi>q. s. f. p.</hi> 7. deaur.</p>
+               <p>But the first syllable, with a leading Letter to an other, may supersede the puncture, as in comb combine, hims himselfe, iniq iniquitie, notw notwith<g ref="char:EOLhyphen"/>standing.</p>
+               <p>The Contracting of Sentences is the penning of a competent beginning of an habituall or knowne Lexion with &amp;c. at the break-off, to imply the se<g ref="char:EOLhyphen"/>quence. But in quotable Writs, quote onely the Author and Place, and sup<g ref="char:EOLhyphen"/>ply by Reuise.</p>
+               <p>And here may I conclude Literall <hi>Brachigraphy</hi> for the compleat Art, with this caution, that when you vse it not for close nor for secret, but for speedy writing onely, tis then not amisse to take more liberty both for distance of Place and fulnesse of Letters, the better to di<g ref="char:EOLhyphen"/>stinguish Implications.</p>
+               <p>Of the Verball part, thus much in a word, though a few more will suffice at large.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:177172:11"/>
+         </div>
+      </body>
+   </text>
+</TEI>
